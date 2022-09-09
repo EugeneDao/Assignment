@@ -1,0 +1,13 @@
+body {
+  background-color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.searchbox {
+  background-color: grey;
+  color: black;
+  width: 30%;
+}
+button {
+  background-color: rgb(106, 106, 207);
+  color: white;
+}

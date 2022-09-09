@@ -1,0 +1,9 @@
+body{
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.namebox-input{
+    background-color: grey;
+    color: black;
+    width: 30%;
+}
